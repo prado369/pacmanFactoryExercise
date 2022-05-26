@@ -1,0 +1,2 @@
+# pacmenFactory
+In the following exercise, we'll be creating PacMen with the click of a button. Each click will create a new PacMan that begins moving across the screen. These PacMen ultimately collide with the edges and bounce towards a different direction. We'll create an empty array into which we'll push and store each new PacMan. We'll have to mirror our code in the DOM and position our image there.
